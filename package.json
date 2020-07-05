@@ -1,0 +1,20 @@
+{
+  "name": "@luchao/base-uitls",
+  "version": "1.0.0",
+  "description": "js常用基础函数",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luchaoet/base-utils"
+  },
+  "author": "luchaoet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luchaoet/base-utils/issues",
+    "email": "luchaoet@icloud.com"
+  },
+  "homepage": "https://github.com/luchaoet/base-utils#readme"
+}
