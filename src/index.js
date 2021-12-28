@@ -13,5 +13,6 @@ import merge from './merge'
 import isInteger from './isInteger'
 import twoDigits from './twoDigits'
 import empty from './empty'
+import type from './type'
 
-export { console, download, isString, isArray, isObject, isNull, isEmpty, unique, uuid, randomNum, getUrlParam, merge, isInteger, twoDigits, empty }
+export { console, download, isString, isArray, isObject, isNull, isEmpty, unique, uuid, randomNum, getUrlParam, merge, isInteger, twoDigits, empty, type }
